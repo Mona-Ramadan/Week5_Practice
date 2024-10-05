@@ -1,0 +1,32 @@
+body {
+  background-color: bisque;
+}
+
+h3 {
+  color: brown;
+  font-size: 36px;
+  text-align: center;
+}
+
+p {
+  color: cadetblue;
+  text-align: center;
+}
+
+#promo {
+  background-color: darkblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.jEntry {
+  background-color: aqua;
+}
+article h1,
+article p {
+  text-align: right;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul li a {
+  text-decoration: none;
+}
